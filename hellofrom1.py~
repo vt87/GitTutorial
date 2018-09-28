@@ -1,7 +1,0 @@
-import os
-print "Hello World from Directory 1"
-<<<<<<< HEAD
-print "Hello World from Directory 2 - Sad :("
-=======
-print "Hello World from Directory 2 - Happy :)"
->>>>>>> b8d4fadc3dea577f10685e18b6a7090acc20dcb9
